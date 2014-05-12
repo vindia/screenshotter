@@ -1,0 +1,27 @@
+{
+  "name": "screenshotter",
+  "description": "Automatically generate screenshots for a list of URLs",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vindia/screenshotter.git"
+  },
+  "homepage": "https://github.com/vindia/screenshotter",
+  "main": "screenshotter.js",
+  "dependencies": {
+    "async",
+    "url-to-screenshot"
+  },
+  "keywords": [
+    "phantomjs",
+    "screenshot",
+    "headless",
+    "async"
+  ],
+  "author": {
+    "name": "Vincent Oord",
+    "email": "vincent@vincentoord.nl",
+    "url": "http://vincentoord.nl"
+  },
+  "license": "MIT"
+}
