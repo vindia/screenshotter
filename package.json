@@ -8,10 +8,10 @@
   },
   "homepage": "https://github.com/vindia/screenshotter",
   "main": "screenshotter.js",
-  "dependencies": {
+  "dependencies": [
     "async",
     "url-to-screenshot"
-  },
+  ],
   "keywords": [
     "phantomjs",
     "screenshot",
